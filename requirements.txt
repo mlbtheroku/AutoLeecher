@@ -2,7 +2,7 @@ aiohttp
 aria2p
 hachoir
 Pillow
-pyrogram==1.4.8
+Pyrogram
 tgcrypto
 youtube-dl
 psutil
